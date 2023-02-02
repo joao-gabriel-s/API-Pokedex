@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UTh+Z/pQvv3IZVKgqfTRZaeI3anhJV+kzfHT5FK2U9VR5wgh+4bz3fUbzEIXpfJRfCbh8SL0wz/anMh4JP4REg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bigode\\source\\repos\\PokedexForms\\PokedexForms\\PokedexForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bigode\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
